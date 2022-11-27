@@ -3,7 +3,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="90px"/>
   </a>
-   <img src="https://komarev.com/ghpvc/?username=ivinnike&style=plastic&color=brightgreen" alt="center"/>
+   - <img src="https://komarev.com/ghpvc/?username=ivinnike&style=plastic&color=brightgreen" alt="center"/>
   
   <h1>
   hey there
