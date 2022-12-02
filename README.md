@@ -6,11 +6,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
-  
+  I am a junior QA engineer
 
  
- ### :woman_technologist: About Me :
- I am a junior QA engineer:
+ ### :woman_technologist: Hard Skills:
+ :small_blue_diamond: Тестирование API сервисов в Postman (методы: GET, POST, PUT, DELETE).
+ </br>:small_blue_diamond: Работа с DevTools ().
+ </br>:small_blue_diamond: Оформление баг-репортов в Jira.
+ </br>:small_blue_diamond: Применение Xpath - локаторы.
  
  
  ---
@@ -25,7 +28,7 @@
  
 ### :writing_hand: Test :
 
-  ### Connect with me:
+  ### :round_pushpin: Connect with me:
  <a href="">
     <img src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" alt="LinkedIn Badge" width="40px"/>
   </a> 
