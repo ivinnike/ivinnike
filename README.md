@@ -29,6 +29,6 @@
 ### :writing_hand: Test :
 
   ### :round_pushpin: Connect with me:
- <a href="">
+ <a href="https://www.linkedin.com/mwlite/in/ivinnike">
     <img src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" alt="LinkedIn Badge" width="40px"/>
   </a> 
