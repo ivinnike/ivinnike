@@ -10,7 +10,7 @@
 
  
  ### :woman_technologist: Hard Skills:
- :small_blue_diamond: Тестирование API сервисов в Postman (методы: GET, POST, PUT, DELETE).
+ :small_blue_diamond: Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
  </br>:small_blue_diamond: Работа с DevTools ().
  </br>:small_blue_diamond: Оформление баг-репортов в Jira.
  </br>:small_blue_diamond: Применение Xpath - локаторы.
