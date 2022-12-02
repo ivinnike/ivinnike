@@ -14,6 +14,8 @@
  </br>:small_blue_diamond: Работа с DevTools ().
  </br>:small_blue_diamond: Оформление баг-репортов в Jira.
  </br>:small_blue_diamond: Применение Xpath - локаторы.
+ </br>:small_blue_diamond: Понимание клиент-серверной архитектуру.  
+
  
  
  ---
