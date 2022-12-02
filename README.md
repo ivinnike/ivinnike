@@ -26,7 +26,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
 </div>
  
+ 
+ ---
+
 ### :writing_hand: Test :
+ 
+ 
+ ---
 
   ### :round_pushpin: Connect with me:
  <a href="https://www.linkedin.com/mwlite/in/ivinnike">
