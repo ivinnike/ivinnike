@@ -15,7 +15,9 @@
  </br>:small_blue_diamond: Оформление баг-репортов в Jira.
  </br>:small_blue_diamond: Применение Xpath - локаторы при описании багов, при автоматизации.
  </br>:small_blue_diamond: Понимание клиент-серверной архитектуры (тестирование клиент(программу); тестирование сервер (смотрим логи); тестирование SQL; тестирование безопасности).
- </br>:small_blue_diamond: Базовые знания HTML5 и CSS3.
+ </br>:small_blue_diamond: Базовые знания HTML5 и CSS.
+ </br>:small_blue_diamond: Базовые знания Linux Ubuntu.
+
  
  ---
 
