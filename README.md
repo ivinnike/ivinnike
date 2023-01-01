@@ -37,9 +37,4 @@
 [Чек-лист]()
 </br>[Тест-кейс]()
  
- ---
 
-  ### :round_pushpin: Connect with me:
- <a href="https://www.linkedin.com/mwlite/in/ivinnike">
-    <img src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" alt="LinkedIn Badge" width="40px"/>
-  </a> 
