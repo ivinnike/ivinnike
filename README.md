@@ -35,7 +35,11 @@
 
 ### :writing_hand: Test :
  <!-- BLOG-POST-LIST:START -->
-
+- [Разработчику удалось заменить системный шрифт iOS с помощью ошибки в ОС](https://habr.com/ru/post/708330/)
+- [Xiaomi представила умный аквариум Mijia Smart Fish Tank](https://habr.com/ru/post/708214/)
+- [Как в BI.ZONE разрабатывают PCB-бейджи для конференции OFFZONE](https://habr.com/ru/post/707392/)
+- [«Яндекс» показал свой новый офис снаружи и внутри](https://habr.com/ru/post/707364/)
+- [Spotify разрабатывает персонализированные плейлисты для тренировок на основе медицинских показателей пользователя](https://habr.com/ru/post/707342/)
 <!-- BLOG-POST-LIST:END -->
  
  ---
