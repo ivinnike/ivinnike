@@ -34,8 +34,8 @@
  ---
 
 ### :writing_hand: Test :
- <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[Чек-лист]()
+</br>[Тест-кейс]()
  
  ---
 
