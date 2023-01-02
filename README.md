@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
-  I am a QA Engineer (junior)
+  I am a QA Engineer
 
  
  ### :woman_technologist: Hard Skills:
