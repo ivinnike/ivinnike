@@ -34,7 +34,7 @@
  ---
 
 ### :writing_hand: Test :
-[Чек-лист]()
+[Чек-лист](https://docs.google.com/spreadsheets/d/1fe5L6fAFrY7ZesXPxuoZ3udaGJNBiMhropWH3eFw9s4/edit#gid=1132313121)
 </br>[Тест-кейс]()
  
 
