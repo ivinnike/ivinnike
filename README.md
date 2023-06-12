@@ -16,12 +16,11 @@
 </br>:basecamp: Документирование проекта (План тестирования (test plan), Чек-лист (checklist), Тест-кейс (test case), баг-репорт (Jira)).
  </br>:basecamp: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние.
 </br>:basecamp: Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
+</br>:basecamp: SQL простые запросы (join ...
  </br>:basecamp: Работа с DevTools (Elements, Console, Sources, Network).
- </br>:basecamp: Применение XPath - локаторы при описании багов, при автоматизации.
  </br>:basecamp: Язык разметки HTML5 и каскадные таблицы стилей CSS.
  </br>:basecamp: Командная строка: создание; копирование; просмотр; перемещение файлов.
- </br>:basecamp: SQL простые запросы (join ...
- 
+ </br>:basecamp: Применение XPath - локаторы при описании багов, при автоматизации.
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -38,6 +37,5 @@
 ### :writing_hand: Test :
 [Чек-листы](https://miro.com/app/board/uXjVP3ZCjNk=/)
 </br>[Баг-репорт](https://docs.google.com/document/d/132hBbpz8ulwmgzLsxh1r4XWuFyOTldDlgIm0p7IJHgw/edit?usp=sharing)
-
- 
+</br>[Тест-кейс]()
 
