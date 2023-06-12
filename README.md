@@ -17,11 +17,12 @@
  </br>:basecamp: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние.
 </br>:basecamp: Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
 </br>:basecamp: SQL простые запросы (join ...
- </br>:basecamp: Работа с DevTools (Elements, Console, Sources, Network).
- </br>:basecamp: Язык разметки HTML5 и каскадные таблицы стилей CSS.
- </br>:basecamp: Командная строка: создание; копирование; просмотр; перемещение файлов.
- </br>:basecamp: Применение XPath - локаторы при описании багов, при автоматизации.
- ---
+</br>:basecamp: Работа с DevTools (Elements, Console, Sources, Network).
+</br>:basecamp: Язык разметки HTML5 и каскадные таблицы стилей CSS.
+</br>:basecamp: Командная строка: создание; копирование; просмотр; перемещение файлов.
+</br>:basecamp: Применение XPath - локаторы при описании багов, при автоматизации.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
