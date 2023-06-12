@@ -10,16 +10,15 @@
 
  
  ### :woman_technologist: Hard Skills:
- :small_blue_diamond: Документирование проекта (План тестирования (test plan), Чек-лист (checklist), Тест-кейс (test case), баг-репорт (Jira)).
- </br>:small_blue_diamond: Применение техники тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние
-
- </br>:small_blue_diamond:Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
- </br>:small_blue_diamond: Работа с DevTools (Elements, Console, Sources, Network).
- </br>:small_blue_diamond: Применение XPath - локаторы при описании багов, при автоматизации.
- </br>:small_blue_diamond: Понимание клиент-серверной архитектуры.
- </br>:small_blue_diamond: Язык разметки HTML5 и каскадные таблицы стилей CSS.
- </br>:small_blue_diamond: Командная строка: создание; копирование; просмотр; перемещение файлов.
-
+:basecamp: Понимание клиент-серверной архитектуры.
+</br>:basecamp: Документирование проекта (План тестирования (test plan), Чек-лист (checklist), Тест-кейс (test case), баг-репорт (Jira)).
+ </br>:basecamp: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние.
+</br>:basecamp: Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
+ </br>:basecamp: Работа с DevTools (Elements, Console, Sources, Network).
+ </br>:basecamp: Применение XPath - локаторы при описании багов, при автоматизации.
+ </br>:basecamp: Язык разметки HTML5 и каскадные таблицы стилей CSS.
+ </br>:basecamp: Командная строка: создание; копирование; просмотр; перемещение файлов.
+ </br>:basecamp:
  
  ---
 
