@@ -11,7 +11,8 @@
  
  ### :woman_technologist: Hard Skills:
  :small_blue_diamond: Документирование проекта (План тестирования (test plan), Чек-лист (checklist), Тест-кейс (test case), баг-репорт (Jira)).
- </br>:small_blue_diamond: Применение техники тест-дизайна.
+ </br>:small_blue_diamond: Применение техники тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние
+
  </br>:small_blue_diamond:Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
  </br>:small_blue_diamond: Работа с DevTools (Elements, Console, Sources, Network).
  </br>:small_blue_diamond: Применение XPath - локаторы при описании багов, при автоматизации.
