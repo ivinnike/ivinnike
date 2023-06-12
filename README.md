@@ -37,7 +37,7 @@
 
 ### :writing_hand: Test :
 [Чек-листы](https://miro.com/app/board/uXjVP3ZCjNk=/)
-</br>[Баг-репорт](https://docs.google.com/spreadsheets/d/1hVoLKQEMfy6cPK0yTHwyS7NkVQmJzLF_3CGX8q9QnCY/edit?usp=sharing)
+</br>[Баг-репорт](https://docs.google.com/document/d/132hBbpz8ulwmgzLsxh1r4XWuFyOTldDlgIm0p7IJHgw/edit?usp=sharing)
 
  
 
