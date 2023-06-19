@@ -13,7 +13,7 @@
  
  ### :woman_technologist: Hard Skills:
 :basecamp: Понимание клиент-серверной архитектуры.
-</br>:basecamp: Документирование проекта (План тестирования (test plan), Чек-лист (checklist), Тест-кейс (test case), баг-репорт (Jira)).
+<br>:basecamp: Документирование проекта (План тестирования (test plan), Чек-лист (checklist), Тест-кейс (test case), баг-репорт (Jira)).
  </br>:basecamp: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние.
 </br>:basecamp: Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
 </br>:basecamp: SQL простые запросы (join ...
