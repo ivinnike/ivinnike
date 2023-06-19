@@ -37,6 +37,6 @@
 
 ### :writing_hand: Test :
 [Чек-листы](https://miro.com/app/board/uXjVP3ZCjNk=/)
-</br>[Баг-репорт](https://docs.google.com/document/d/132hBbpz8ulwmgzLsxh1r4XWuFyOTldDlgIm0p7IJHgw/edit?usp=sharing)
-</br>[Тест-кейс]()
+<br>[Баг-репорт](https://docs.google.com/document/d/1GmlggwgUe4_6ewhsBfBnTXxvC8LK5Kh3uLlvJ1JEcn8/edit?usp=sharing)
+<br>[Тест-кейс]()
 
