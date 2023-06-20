@@ -15,7 +15,7 @@
 :basecamp: Понимание клиент-серверной архитектуры.
 <br>:basecamp: Документирование проекта (План тестирования, Чек-лист, Тест-кейс, баг-репорт).
  <br>:basecamp: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние.
-<br>:basecamp: Тестирование API в Postman (методы: GET, POST, PUT, DELETE).
+<br>:basecamp: Тестирование API в Postman (методы: GET, POST, PUT, DELETE). Использование фреймворк Swagger.
 <br>:basecamp: SQL - простые запросы, join'ы.
 <br>:basecamp: Работа с DevTools (Elements, Console, Sources, Network).
 <br>:basecamp: Язык разметки HTML5 и каскадные таблицы стилей CSS.
