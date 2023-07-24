@@ -1,13 +1,14 @@
-<h1> Hey there <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="80px" /> What's up?</h1>
+<h1> Hey there <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="80px" />
+</h1>
 
-<p> My name is Irina and I'm a  QA Engineer <img src="https://media.giphy.com/media/j0rFAivZ51ce4/giphy.gif" width="23" /> <b>Moscow, Russia</b>. </p>
+<p> My name is Irina and I'm a  QA Engineer, from <img src="https://media.giphy.com/media/j0rFAivZ51ce4/giphy.gif" width="23" /> <b>Moscow, Russia</b>. </p>
 
 ## <h2><img src = "https://media.giphy.com/media/Nn3VjLo5LpzjzmDZhn/giphy.gif" width = 60px height=60px>About me</h2>
 
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and python 🐍
-- 🎯 Goals: live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- Работаю QA c 2021г.<img src="https://media.giphy.com/media/yPLFnK5wvLwxZUOw7o/giphy.gif" width="30"/>
+- <img src="https://media.giphy.com/media/Q5j9uCrHpIV6bzdNFo/giphy.gif" width="50"/> I'm currently learning english <img src="https://media.giphy.com/media/VOsMrLdBjh34Q/giphy.gif" width="25"/>  and python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25" />
+
+-  And ... i read books <img src="https://media.giphy.com/media/Vl15J2CSrxChJff5qT/giphy.gif" width="50"/> and play board games <img src="https://media.giphy.com/media/5hPwz7DAaWC9gyZgAU/giphy.gif" width="50"/>
 
 
  
