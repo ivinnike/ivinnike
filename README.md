@@ -21,7 +21,7 @@
 <br>:small_blue_diamond: Делаю SQL запросы средней сложности (Select, Join, Group by).
 <br>:small_blue_diamond: DevTools использую для тестирования фронта и локализаций багов (Elements, Console, Network, Application, Sources).
 <br>:small_blue_diamond: Browserstack для кросс браузерного тестирования.
-<br>:small_blue_diamond: Командная строка: создание директорий/файлов; копирование директорий/файлов; просмотр директорий; пермещение директорий/файлов; просмотр и редактировния файлов в текстовом редакторе vim; использовать команду grep.
+<br>:small_blue_diamond: Командная строка: mkdir; touch; cp -r; cp; ls; mv; просмотр и редактировния файлов в текстовом редакторе vim; использовать команду grep.
 <br>:small_blue_diamond: Логи Kibana, Grafana.
 <br>:small_blue_diamond: Работаю с git через линуксовую консоль.
 <br>:small_blue_diamond: Применение XPath - локаторов для автоматизации.
