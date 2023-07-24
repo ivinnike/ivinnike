@@ -48,7 +48,7 @@
  
 
 ## <h2> <img src = "https://media.giphy.com/media/EiVEamyvKhVyvc7iwX/giphy.gif" width = 50px height=50px> Test Artifacts</h2>
-[Чек-листы](https://miro.com/app/board/uXjVP3ZCjNk=/)
+[Чек-листы](https://miro.com/app/board/uXjVP3ZCjNk=/?share_link_id=319611551067)
 <br>[Баг-репорт](https://docs.google.com/document/d/1GmlggwgUe4_6ewhsBfBnTXxvC8LK5Kh3uLlvJ1JEcn8/edit?usp=sharing)
 <br>[Тест-кейс]()
 
