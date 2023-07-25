@@ -1,16 +1,7 @@
 <h1> Hey there <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/hi.gif?raw=true" width="80px" />
 </h1>
 
-<p> My name is Irina and I'm a  QA Engineer, from <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/ru.gif?raw=true" width="23" /> <b>Moscow, Russia</b>. </p>
-
-## <h2><img src = "https://github.com/ivinnike/ivinnike/blob/main/assets/about_me.gif?raw=true" width = 60px height=60px>About me</h2>
-
-- I have been working as a QA since 2021 <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/lady_bug.gif?raw=true" width="30"/>
-- <img src="https://media.giphy.com/media/Q5j9uCrHpIV6bzdNFo/giphy.gif" width="50"/> I'm currently learning english <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/eng.gif?raw=true" width="25"/>  and python <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/python.gif?raw=true" width="25" />
-
--  And ... i read books <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/book.gif?raw=true" width="50"/> and play board games <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/cube.gif?raw=true" width="50"/>
-
-
+<p> My name is Irina and I'm a  QA Engineer, from <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/ru.gif?raw=true" width="23" /> <b>Moscow, Russia</b>.<img src = "https://github.com/ivinnike/ivinnike/blob/main/assets/about_me.gif?raw=true" width = 60px height=60px> I have been working as a QA since 2021 <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/lady_bug.gif?raw=true" width="30"/>. <img src="https://media.giphy.com/media/Q5j9uCrHpIV6bzdNFo/giphy.gif" width="50"/> I'm currently learning english <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/eng.gif?raw=true" width="25"/>  and python <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/python.gif?raw=true" width="25" />.  And ... i read books <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/book.gif?raw=true" width="50"/> and play board games <img src="https://github.com/ivinnike/ivinnike/blob/main/assets/cube.gif?raw=true" width="50"/></p>
  
  ## <h2><img src = "https://github.com/ivinnike/ivinnike/blob/main/assets/skills.gif?raw=true" width = 50px height=50px> Hard Skills</h2>
 :small_blue_diamond: Понимаю клиент-серверную архитектуру и детали HTTP.
