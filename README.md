@@ -6,7 +6,7 @@
  ## <h2><img src = "https://github.com/ivinnike/ivinnike/blob/main/assets/skills.gif?raw=true" width = 50px height=50px> Hard Skills</h2>
 :small_blue_diamond: Понимаю клиент-серверную архитектуру и детали HTTP.
 <br>:small_blue_diamond: Документирование проекта (План тестирования, Чек-лист, Тест-кейс, баг-репорт).
- <br>:small_blue_diamond: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние.
+ <br>:small_blue_diamond: Применение техник тест-дизайна: классы эквивалентности; граничные условия; таблица принятия решений; попарное тестировние; тестирование переходов состояния.
 <br>:small_blue_diamond: Тестирование API в Postman (методы: GET, POST, PUT, DELETE) - коллекции, инваременты, cUrl. 
 <br>:small_blue_diamond: Использование фреймворк Swagger.
 <br>:small_blue_diamond: Делаю SQL запросы средней сложности (Select, Join, Group by).
